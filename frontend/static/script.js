@@ -4,7 +4,7 @@
 // FastAPI + MongoDB Integration
 // ==========================================
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://taskflow-todo-app-10nf.onrender.com";
 
 // 1. SELECT HTML ELEMENTS
 const taskList = document.getElementById("taskList");
